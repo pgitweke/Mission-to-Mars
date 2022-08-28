@@ -20,4 +20,4 @@ We used Python and HTML to update Mongo database, and modify HTML template so th
 
 
 ### Summary
-The last part of the module was erformed by updating the website to make it mobile-responsive, and add additional Bootstrap 3 components to make it stand out.
+The last part of the module was performed by updating the website to make it mobile-responsive, and add additional Bootstrap 3 components to make it stand out. 
